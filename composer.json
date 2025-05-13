@@ -1,0 +1,15 @@
+{
+    "name": "doria/supermarkt-bas",
+    "autoload": {
+        "psr-4": {
+            "Doria\\SupermarktBas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dorian921",
+            "email": "144111488+dorian921@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}

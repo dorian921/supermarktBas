@@ -15,6 +15,7 @@
 	<nav class="nav">
         <img src="../img/Bas.png" alt="bas">
         <a href="read.php">CRUD klant</a>
+        <a href="../artikelen/readArt.php">CRUD artikelen</a>
     </nav>
 	<h1>CRUD Klant</h1>
 	<nav>

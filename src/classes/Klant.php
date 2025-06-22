@@ -137,7 +137,7 @@ class Klant extends Database{
 		$stmt = self::$conn->prepare($sql);
     return $stmt->execute(['klantId' => $klantId]);
 
-		// Check if the row is deleted
+		
 		
 
 	}
